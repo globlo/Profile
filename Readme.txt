@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Laura
-Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Akihide Takei's Profile
+Welcome to the GitHub repository for Akihide Takei's Profile. This repository contains the HTML and CSS code for Akihide Takei's personal website.
