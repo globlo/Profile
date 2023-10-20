@@ -253,7 +253,12 @@
 
 })()
 
-// function handleFormSubmit() {
-//   // Redirect to another HTML file after form submission
-//   window.location.href = '../success.html';
-// }
+
+// document.getElementById("email-form").addEventListener("submit", function (event) {
+//   event.preventDefault(); // Prevent the default form submission behavior
+
+//   // Handle the form data here (e.g., send data to the server via AJAX)
+
+//   // Redirect to another page (change "another-page.html" to the desired destination)
+//   window.location.href = "thankyou.html";
+// });
