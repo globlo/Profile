@@ -252,3 +252,8 @@
   new PureCounter();
 
 })()
+
+// function handleFormSubmit() {
+//   // Redirect to another HTML file after form submission
+//   window.location.href = '../success.html';
+// }
